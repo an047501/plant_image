@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>IMG_20220915_164534.jpg</filename>
+	<path>/my-project-name/IMG_20220915_164534.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>2736</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Wither</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>820</xmin>
+			<ymin>1471</ymin>
+			<xmax>985</xmax>
+			<ymax>1609</ymax>
+		</bndbox>
+	</object>
+</annotation>

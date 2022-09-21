@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>IMG_20220915_164435.jpg</filename>
+	<path>/my-project-name/IMG_20220915_164435.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>2736</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Wither</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1348</xmin>
+			<ymin>1601</ymin>
+			<xmax>1440</xmax>
+			<ymax>1874</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>YellowLeaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>928</xmin>
+			<ymin>1255</ymin>
+			<xmax>1428</xmax>
+			<ymax>1390</ymax>
+		</bndbox>
+	</object>
+</annotation>
